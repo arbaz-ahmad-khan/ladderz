@@ -1,0 +1,72 @@
+{
+    "id": "04331fb6-ed91-4d74-b6e9-4bfe0fcfb457",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "starter-template-basic-typescript/assets/asset-pack.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Preload",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "1ea2c6db-60c5-4c0a-9958-26101bde6b90",
+            "label": "preloadBg",
+            "texture": {
+                "key": "preloadBg"
+            },
+            "x": 540,
+            "y": 960,
+            "alpha": 0.5,
+            "alphaTopLeft": 0.5,
+            "alphaTopRight": 0.5,
+            "alphaBottomLeft": 0.5,
+            "alphaBottomRight": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "717eae06-af32-478e-9a38-db973c2bad18",
+            "label": "preloadLogo",
+            "texture": {
+                "key": "preloadLogo"
+            },
+            "x": 540,
+            "y": 400
+        },
+        {
+            "type": "Image",
+            "id": "f1e8b6a3-bddc-425d-a9a1-87cc191c012d",
+            "label": "playBtn",
+            "scope": "CLASS",
+            "texture": {
+                "key": "play"
+            },
+            "x": 540,
+            "y": 1600,
+            "visible": false
+        },
+        {
+            "type": "Sprite",
+            "id": "e0cffa81-8fc1-4d5e-83de-e98b3465adc4",
+            "label": "player",
+            "scope": "CLASS",
+            "texture": {
+                "key": "hero1"
+            },
+            "x": 600,
+            "y": 380,
+            "flipX": true
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

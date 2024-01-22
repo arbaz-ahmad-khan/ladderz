@@ -1,0 +1,218 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/Climbing/climb1.png",
+                "type": "image",
+                "key": "climb1"
+            },
+            {
+                "url": "assets/images/Climbing/climb2.png",
+                "type": "image",
+                "key": "climb2"
+            },
+            {
+                "url": "assets/images/Climbing/climb3.png",
+                "type": "image",
+                "key": "climb3"
+            },
+            {
+                "url": "assets/images/Climbing/climb4.png",
+                "type": "image",
+                "key": "climb4"
+            },
+            {
+                "url": "assets/images/Climbing/climb5.png",
+                "type": "image",
+                "key": "climb5"
+            },
+            {
+                "url": "assets/images/Climbing/climb6.png",
+                "type": "image",
+                "key": "climb6"
+            },
+            {
+                "url": "assets/images/Climbing/climb7.png",
+                "type": "image",
+                "key": "climb7"
+            },
+            {
+                "url": "assets/images/dark-background.png",
+                "type": "image",
+                "key": "dark-background"
+            },
+            {
+                "url": "assets/images/diamond.png",
+                "type": "image",
+                "key": "diamond"
+            },
+            {
+                "url": "assets/images/diamondparticle.png",
+                "type": "image",
+                "key": "diamondparticle"
+            },
+            {
+                "url": "assets/images/floor.png",
+                "type": "image",
+                "key": "floor"
+            },
+            {
+                "url": "assets/images/platform/floor-1.png",
+                "type": "image",
+                "key": "floor-1"
+            },
+            {
+                "url": "assets/images/platform/floor-2.png",
+                "type": "image",
+                "key": "floor-2"
+            },
+            {
+                "url": "assets/images/platform/floor-3.png",
+                "type": "image",
+                "key": "floor-3"
+            },
+            {
+                "url": "assets/images/platform/floor-4.png",
+                "type": "image",
+                "key": "floor-4"
+            },
+            {
+                "url": "assets/images/platform/floor-5.png",
+                "type": "image",
+                "key": "floor-5"
+            },
+            {
+                "url": "assets/images/platform/floor-6.png",
+                "type": "image",
+                "key": "floor-6"
+            },
+            {
+                "url": "assets/images/hero.png",
+                "type": "image",
+                "key": "hero"
+            },
+            {
+                "url": "assets/images/Character/hero1.png",
+                "type": "image",
+                "key": "hero1"
+            },
+            {
+                "url": "assets/images/Character/hero10.png",
+                "type": "image",
+                "key": "hero10"
+            },
+            {
+                "url": "assets/images/Character/hero11.png",
+                "type": "image",
+                "key": "hero11"
+            },
+            {
+                "url": "assets/images/Character/hero12.png",
+                "type": "image",
+                "key": "hero12"
+            },
+            {
+                "url": "assets/images/Character/hero13.png",
+                "type": "image",
+                "key": "hero13"
+            },
+            {
+                "url": "assets/images/Character/hero14.png",
+                "type": "image",
+                "key": "hero14"
+            },
+            {
+                "url": "assets/images/Character/hero2.png",
+                "type": "image",
+                "key": "hero2"
+            },
+            {
+                "url": "assets/images/Character/hero3.png",
+                "type": "image",
+                "key": "hero3"
+            },
+            {
+                "url": "assets/images/Character/hero4.png",
+                "type": "image",
+                "key": "hero4"
+            },
+            {
+                "url": "assets/images/Character/hero5.png",
+                "type": "image",
+                "key": "hero5"
+            },
+            {
+                "url": "assets/images/Character/hero6.png",
+                "type": "image",
+                "key": "hero6"
+            },
+            {
+                "url": "assets/images/Character/hero7.png",
+                "type": "image",
+                "key": "hero7"
+            },
+            {
+                "url": "assets/images/Character/hero8.png",
+                "type": "image",
+                "key": "hero8"
+            },
+            {
+                "url": "assets/images/Character/hero9.png",
+                "type": "image",
+                "key": "hero9"
+            },
+            {
+                "url": "assets/animations/heroAnimation.json",
+                "type": "animation",
+                "key": "heroAnimation"
+            },
+            {
+                "url": "assets/images/high-score.png",
+                "type": "image",
+                "key": "high-score"
+            },
+            {
+                "url": "assets/images/ladder.png",
+                "type": "image",
+                "key": "ladder"
+            },
+            {
+                "url": "assets/images/popup.png",
+                "type": "image",
+                "key": "popup"
+            },
+            {
+                "url": "assets/images/replay-game.png",
+                "type": "image",
+                "key": "replay-game"
+            },
+            {
+                "url": "assets/images/score-board.png",
+                "type": "image",
+                "key": "score-board"
+            },
+            {
+                "url": "assets/images/spike.png",
+                "type": "image",
+                "key": "spike"
+            },
+            {
+                "url": "assets/images/tap.png",
+                "type": "image",
+                "key": "tap"
+            },
+            {
+                "url": "assets/images/tap-to-jump.png",
+                "type": "image",
+                "key": "tap-to-jump"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

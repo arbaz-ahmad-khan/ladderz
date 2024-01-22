@@ -1,0 +1,122 @@
+{
+    "anims": [
+        {
+            "key": "climbAnimation",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "climb1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "climb2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "climb3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "climb4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "climb5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "climb6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "climb7",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "runAnimation",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hero2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero7",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero8",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero9",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hero13",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
